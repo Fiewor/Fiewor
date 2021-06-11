@@ -5,15 +5,15 @@
 **Fiewor/Fiewor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 😄 Pronouns: ...
+- � Pronouns: ...
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
 -->
-- 🔭 I’m currently working on Responsive Web Developer challenges from https://devchallenges.io/paths/responsive-web-developer
-- 🌱 I’m currently learning Javascript and Sass
-- 👯 I’m looking to collaborate on front-end projects remotely or through on-site internships/programs
-- 📫 How to reach me: johnfiewor@gmail.com
-- ⚡ Fun fact: I play the flute and enjoy playing soccer too.
+- I’m currently working on Responsive Web Developer challenges from https://devchallenges.io/paths/responsive-web-developer
+- I’m currently learning Javascript and Sass
+- I’m looking to collaborate on front-end projects remotely or through on-site internships/programs
+- How to reach me: johnfiewor@gmail.com
+- Fun fact: I play the flute and enjoy playing soccer too.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiewor&show_icons=true&theme=radical" />
 </a>
