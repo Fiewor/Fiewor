@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - How to reach me: johnfiewor@gmail.com
 - Fun fact: I play the flute and enjoy playing soccer too.
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiewor&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiewor&show_icons=true&theme=buefy&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiewor&layout=compact")]("https://github.com/anuraghazra/github-readme-stats" />
