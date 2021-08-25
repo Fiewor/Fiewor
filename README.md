@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - I’m currently working on Responsive Web Developer challenges from https://devchallenges.io/paths/responsive-web-developer
-- I’m currently learning Javascript, Sass and contributing to Open-Source
+- I’m currently learning React and Node and contributing to Open-Source
 - I’m looking to collaborate on front-end projects remotely or through on-site internships/programs
 - How to reach me: johnfiewor@gmail.com
 - Fun fact: I play the flute and enjoy playing soccer too.
