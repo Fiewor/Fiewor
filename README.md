@@ -11,7 +11,7 @@
 <p>
 </p>
 
-- 🌱 I’m currently learning **React, Node.js** and making my first attempts to contribute to Open Source through IBM's [CFCFRJ](https://developer.ibm.com/callforcode/racial-justice/)
+- 🌱 I’m currently learning **React, Node.js** and contributing to Open Source through IBM's [CFCFRJ](https://developer.ibm.com/callforcode/racial-justice/)
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Fiewor?tab=repositories)
 
