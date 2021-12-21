@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Fiewor?tab=repositories)
 
-- 👯 I’m looking to collaborate/build on real world projects through internships and remote jobs
+- 👯 I’m looking for a job! See contact details below.
 
 - 📫 How to reach me **johnfiewor@gmail.com**
 
