@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: I play the flute and enjoy playing soccer too
 
-- Check out my [resume](https://drive.google.com/file/d/1PY9muBU6mP5Sbs2GrXTUi4xfuRx1e237/view?usp=sharing)
+- Check out my [resume](https://drive.google.com/file/d/1lrp9v4lH5gUGu0f1DLjO6xxt67qb8PGZ/view?usp=sharing)
 
 ### 🛠 &nbsp;Languages and Tools
 
