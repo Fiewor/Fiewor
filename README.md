@@ -11,11 +11,11 @@
 <p>
 </p>
 
-- 🌱 I’m currently learning **React, Node.js** and contributing to Open Source through IBM's [CFCFRJ](https://developer.ibm.com/callforcode/racial-justice/)
+- 🌱 I’m currently creating an Ed-Tech solution called [AI-Grader](https://github.com/Fiewor/ai-grader) and contributing to Open Source through IBM's [CFCFRJ](https://developer.ibm.com/callforcode/racial-justice/)
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Fiewor?tab=repositories)
+- 💻 All of my projects are available at [github](https://github.com/Fiewor?tab=repositories)
 
-- 👯 I’m looking for a job! See contact details below.
+- 👨‍ I’m looking for a job! See contact details below.
 
 - 📫 How to reach me **johnfiewor@gmail.com**
 
