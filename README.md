@@ -2,7 +2,7 @@
 
 <!-- <h2>About Me</h2> -->
 
-<h3 align="center">Frontend Developer | Azure AI Engineer Associate | Machine Learning Enthusiast </h3>
+<h3 align="center">Software Developer | Azure AI Engineer Associate </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Fiewor&color=blue&style=flat">
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: I play the flute and enjoy playing soccer too
 
-- Check out my [resume](https://drive.google.com/file/d/1Dnu7JGvmgoknx2UI4JUcm7Pahchv2RrQ/view?usp=sharing)
+- Check out my [resume](https://drive.google.com/file/d/1sVGzZP3V4UPvreYTgZ2CKOvU0_hEyWrv/view?usp=share_link)
 
 ### 🛠 &nbsp;Languages and Tools
 
