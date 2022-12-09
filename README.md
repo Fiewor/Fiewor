@@ -11,9 +11,9 @@
 <p>
 </p>
 
-- 🌱 I’m currently creating an Ed-Tech solution called [AI-Grader](https://github.com/Fiewor/ai-grader) and contributing to Open Source through IBM's [CFCFRJ](https://developer.ibm.com/callforcode/racial-justice/)
+- 🌱 I’m currently learning C# and grinding [leetcode](https://leetcode.com/fiewor/)
 
-- 💻 All of my projects are available at [github](https://github.com/Fiewor?tab=repositories)
+- 💻 I'm building an interesting Ed-Tech project. It's called AI-Grader. Check it [here](https://github.com/Fiewor/ai-grader)
 
 - 👨‍ I’m looking for a job! See contact details below.
 
